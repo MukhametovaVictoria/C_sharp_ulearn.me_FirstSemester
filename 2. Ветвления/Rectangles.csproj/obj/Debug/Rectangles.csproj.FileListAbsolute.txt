@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\Rectangles.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\Rectangles.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\Rectangles.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\mscorlib.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\TestingRoom.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\normidna.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\normnfc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\normnfd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\normnfkc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\bin\Debug\normnfkd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\obj\Debug\Rectangles.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Rectangles.csproj\obj\Debug\Rectangles.pdb

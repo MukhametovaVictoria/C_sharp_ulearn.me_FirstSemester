@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\Distance.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\Distance.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\Distance.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\mscorlib.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\TestingRoom.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\normidna.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\normnfc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\normnfd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\normnfkc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\bin\Debug\normnfkd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\obj\Debug\Distance.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Distance.csproj\obj\Debug\Distance.pdb

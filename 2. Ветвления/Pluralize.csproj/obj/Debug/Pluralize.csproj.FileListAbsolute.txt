@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\Pluralize.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\rubles.txt
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\Pluralize.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\Pluralize.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\mscorlib.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\normidna.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\normnfc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\normnfd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\normnfkc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\bin\Debug\normnfkd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\obj\Debug\Pluralize.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\obj\Debug\Pluralize.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Pluralize.csproj\obj\Debug\Pluralize.pdb
