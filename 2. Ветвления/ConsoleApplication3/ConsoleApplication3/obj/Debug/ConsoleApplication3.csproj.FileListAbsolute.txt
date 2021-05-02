@@ -1,0 +1,6 @@
+C:\Users\Виктория\Desktop\Универ\ТП\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Виктория\Desktop\Универ\ТП\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Виктория\Desktop\Универ\ТП\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
