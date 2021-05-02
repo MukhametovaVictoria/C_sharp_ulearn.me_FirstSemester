@@ -1,0 +1,9 @@
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\bin\Debug\netstandard2.0\GeometryTasks.deps.json
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\bin\Debug\netstandard2.0\GeometryTasks.dll
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\bin\Debug\netstandard2.0\GeometryTasks.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\obj\Debug\netstandard2.0\GeometryTasks.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\obj\Debug\netstandard2.0\GeometryTasks.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\obj\Debug\netstandard2.0\GeometryTasks.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\obj\Debug\netstandard2.0\GeometryTasks.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\obj\Debug\netstandard2.0\GeometryTasks.dll
+C:\Users\Виктория\Desktop\Универ\ТП\GeometryTasks\GeometryTasks\obj\Debug\netstandard2.0\GeometryTasks.pdb
