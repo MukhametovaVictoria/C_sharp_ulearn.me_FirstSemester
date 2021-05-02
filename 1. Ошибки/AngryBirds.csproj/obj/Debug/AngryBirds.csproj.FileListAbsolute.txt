@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\AngryBirds.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\AngryBirds.exe
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\AngryBirds.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\mscorlib.dll
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\TestingRoom.dll
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\normidna.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\normnfc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\normnfd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\normnfkc.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\bin\Debug\normnfkd.nlp
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\obj\Debug\AngryBirds.exe
+C:\Users\Виктория\Desktop\Универ\ТП\AngryBirds.csproj\obj\Debug\AngryBirds.pdb
