@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\bin\Debug\HotelAccounting.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\bin\Debug\HotelAccounting.exe
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\bin\Debug\HotelAccounting.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\MainWindow.g.cs
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\MainWindow.baml
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.g.resources
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.exe
+C:\Users\Виктория\Desktop\Универ\ТП\HotelAccounting.csproj\obj\Debug\HotelAccounting.pdb
