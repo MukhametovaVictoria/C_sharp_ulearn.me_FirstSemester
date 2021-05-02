@@ -1,0 +1,6 @@
+C:\Users\Виктория\Desktop\Универ\ТП\BankPercentages\BankPercentages\bin\Debug\BankPercentages.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\BankPercentages\BankPercentages\bin\Debug\BankPercentages.exe
+C:\Users\Виктория\Desktop\Универ\ТП\BankPercentages\BankPercentages\bin\Debug\BankPercentages.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\BankPercentages\BankPercentages\obj\Debug\BankPercentages.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\BankPercentages\BankPercentages\obj\Debug\BankPercentages.exe
+C:\Users\Виктория\Desktop\Универ\ТП\BankPercentages\BankPercentages\obj\Debug\BankPercentages.pdb
