@@ -1,0 +1,7 @@
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\bin\Debug\Billiards.exe.config
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\bin\Debug\Billiards.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\bin\Debug\Billiards.pdb
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\bin\Debug\TestingRoom.dll
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\obj\Debug\Billiards.exe
+C:\Users\Виктория\Desktop\Универ\ТП\Billiards.csproj\obj\Debug\Billiards.pdb
